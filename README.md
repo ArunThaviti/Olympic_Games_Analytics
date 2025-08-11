@@ -59,7 +59,7 @@ Contains participation and results data for each Olympic event.
 
 ---
 
-## 🧠 Key Analyses & Insights
+## 🧠 Key Analysis & Insights
 
 The following 10 business questions were addressed using **CTEs**, **window functions**, and **clean SQL logic**:
 
